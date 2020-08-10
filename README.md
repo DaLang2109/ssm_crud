@@ -1,2 +1,2 @@
 # ssm_crud
-SSM框架联系
+SSM框架练习
